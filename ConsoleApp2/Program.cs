@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PR1_1
+namespace prakt1
 {
     struct Person
     {
